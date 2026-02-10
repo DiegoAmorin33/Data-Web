@@ -6,3 +6,8 @@ Author: Matheus Fonseca Chaves
 Source: [https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games](https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games)
 
 The dataset is used for educational and visualization purposes.
+
+
+And here the streamlit web app!
+
+https://data-web-fxe8rs9xzvn7qb5xtfrmbq.streamlit.app/
