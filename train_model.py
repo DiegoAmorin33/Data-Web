@@ -112,4 +112,4 @@ else:
 with open("model.pkl", "wb") as f:
     pickle.dump((best_model, scaler, best_name), f)
 
-print(f"\n✅ Mejor modelo guardado: {best_name}")
+print(f"\n Mejor modelo guardado: {best_name}")
